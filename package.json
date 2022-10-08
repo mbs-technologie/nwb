@@ -76,7 +76,7 @@
     "process" : "0.11.10",
 
     "webpack": "5.36.1",
-    "autoprefixer": "10.2.5",
+    "autoprefixer": "10.4.11",
     "babel-loader": "8.2.2",
     "case-sensitive-paths-webpack-plugin": "2.4.0",
     "copy-webpack-plugin": "8.1.1",
